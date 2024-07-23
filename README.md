@@ -2,7 +2,7 @@
 
 MZ세대를 목표로한 트렌디한 전통주 판매 사이트 
 
-![screencapture-bichena-kro-kr-main-ko-2024-05-24-09_36_12 (1).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/44404258-d2d4-4daf-86cf-6ae797e7bc03/b66410a2-daf7-47ce-96c9-51c725b3e426/69848f0b-14f0-4515-9a5b-09c73f7921b1.png)
+![Example Image](https://example.com/image.png)
 
 **요약**
 
